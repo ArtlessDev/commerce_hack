@@ -1,0 +1,20 @@
+[{
+    "name" : "One",
+    "image" : "images/plant1.jpg",
+    "price" : 20
+},
+{
+    "name": "Snuffles",
+    "image": "images/plant2.jpg",
+    "price": 50
+},
+{
+    "name": "Harry",
+    "image": "images/plantFam.jpg",
+    "price": 140
+},
+{
+    "name": "Eileen",
+    "image": "images/plant3.jpg",
+    "price": 500
+}]
